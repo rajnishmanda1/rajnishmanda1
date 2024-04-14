@@ -1,4 +1,4 @@
-# [Rajnish Mandavariya]
+# [@rajnishmanda1]
 
 ## About Me
 
