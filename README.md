@@ -28,7 +28,7 @@ Here are some projects I've worked on:
 ## Contact Me
 
 - Email: [rajnishmandavriya@gmail.com, rajnish.mandavariya2023@vitstudent.ac.in (My college email. Only place I go regularly.)]
-- LinkedIn: [https://www.linkedin.com/rajnishmanda1]
+- LinkedIn: [www.linkedin.com/in/rajnishmanda1]
 - Twitter: [I don't use Twitter or X or whatever the fuck that is. Follow me on instagram by the way.]
 - Instagram: [https://www.instagram.com/rajnishmanda1]
 - Personal Website/Blog: [I promise I will create one soon.]
