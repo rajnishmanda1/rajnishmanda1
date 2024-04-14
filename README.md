@@ -1,16 +1,42 @@
-### Hi there 👋
+# [Rajnish Mandavariya]
 
-<!--
-**rajnishmanda1/rajnishmanda1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+Hello! I'm [rajnish mandavariya]. I'm passionate about [almost everything except chemistry], and I enjoy [coding and messing around other people's code]. I'm currently studying as a [first year student at VIT Chennai].
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+
+- Programming Languages: [Python, C, CPP, Rust, Kotlin]
+- Technologies: [VS Code, GIT and GITHUB, if those counts]
+- Other Skills: [Mild Insomnia. Can make great chai.]
+
+## Projects
+
+Here are some projects I've worked on:
+
+<I will add my projects once I will be able to complete them, basically never.>
+
+1. **[Project Name](link-to-project)** - Brief description of the project.
+2. **[Project Name](link-to-project)** - Brief description of the project.
+3. **[Project Name](link-to-project)** - Brief description of the project.
+
+## Education
+
+- [B.Tech.], [CSE (Core)], [VIT Chennai], [Doing it right now. Should complete it by 2027.]
+- [Yes, I have completed schooling.]
+
+## Contact Me
+
+- Email: [rajnishmandavriya@gmail.com, rajnish.mandavariya2023@vitstudent.ac.in (My college email. Only place I go regularly.)]
+- LinkedIn: [https://www.linkedin.com/rajnishmanda1]
+- Twitter: [I don't use Twitter or X or whatever the fuck that is. Follow me on instagram by the way.]
+- Instagram: [https://www.instagram.com/rajnishmanda1]
+- Personal Website/Blog: [I promise I will create one soon.]
+
+## Fun Facts
+
+- [I have the same username on all the socials.]
+- [That's it. Yes, I am boring and self-aware.]
+- [I don't have any fun fact.]
+
+Feel free to reach out to me if you have any questions or want to collaborate on a project!
