@@ -8,7 +8,7 @@ Hello! I'm [rajnish mandavariya]. I'm passionate about [almost everything except
 
 - Programming Languages: [Python, C, CPP, Rust, Kotlin]
 - Technologies: [VS Code, GIT and GITHUB, if those counts]
-- Other Skills: [Mild Insomnia. Can make great chai.]
+- Other Skills: [Can stay awake for 3 days in a row. Can make great chai.]
 
 ## Projects
 
@@ -36,7 +36,7 @@ Here are some projects I've worked on:
 ## Fun Facts
 
 - [I have the same username on all the socials.]
+- [Will forget your name and other important things as soon as you tell me.]
 - [That's it. Yes, I am boring and self-aware.]
-- [I don't have any fun fact.]
 
 Feel free to reach out to me if you have any questions or want to collaborate on a project!
