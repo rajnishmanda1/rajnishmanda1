@@ -2,7 +2,7 @@
 
 ## About Me
 
-Hello! I'm [rajnish mandavariya]. I'm passionate about [almost everything except chemistry], and I enjoy [coding and messing around other people's code]. I'm currently studying as a [first year student at VIT Chennai].
+Hello! I'm [rajnish mandavariya]. I'm passionate about [almost everything], and I enjoy [coding and messing around other people's code]. I'm currently studying as a [third year student at VIT Chennai].
 
 ## Skills
 
