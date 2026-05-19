@@ -7,8 +7,7 @@ Hello! I'm [rajnish mandavariya]. I'm passionate about [almost everything], and 
 ## Skills
 
 - Programming Languages: [Python, C, CPP, Java]
-- Technologies: [VS Code, GIT and GITHUB, if those counts]
-- Other Skills: [Can stay awake for 3 days in a row. Can make great chai.]
+- Technologies: [VS Code, GIT]
 
 ## Projects
 
