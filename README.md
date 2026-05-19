@@ -6,8 +6,9 @@ Hello! I'm [rajnish mandavariya]. I'm passionate about [almost everything], and 
 
 ## Skills
 
-- Programming Languages: [Python, C, CPP, Java]
-- Technologies: [VS Code, GIT]
+- **Programming Languages:** [C, C++, Java, Python, SQL, HTML, CSS, JavaScript]
+- **Tools:** [VS Code, MATLAB, SQL plus, R Studios, Canva, Jupyter]
+- **Technical Skills:** [UI/UX, Web Development, Java and Python Development, Machine Learning, Data Science]
 
 ## Projects
 
