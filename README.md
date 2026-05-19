@@ -15,7 +15,7 @@ Here are some projects I've worked on:
 
 1. **Real-Time Bus Tracking System** - Drivers share live GPS via browser geolocation API, passengers track buses on OpenStreetMap.
 2. **SecureChat** - A forward end-to-end encrypted chat system.
-3. **[Project Name](link-to-project)** - Brief description of the project.
+3. **Network Bandwidth Monitor** - A Linux-based network bandwidth monitoring application to track internet speed and bandwidth usage.
 
 ## Education
 
