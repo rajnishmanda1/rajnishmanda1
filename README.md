@@ -2,19 +2,17 @@
 
 ## About Me
 
-Hello! I'm [rajnish mandavariya]. I'm passionate about [almost everything], and I enjoy [coding and messing around other people's code]. I'm currently studying as a [third year student at VIT Chennai].
+Hello! I'm [rajnish mandavariya]. I'm passionate about [almost everything], and I enjoy [coding, problem solving and mathematics]. I'm currently studying as a [final year student at VIT Chennai].
 
 ## Skills
 
-- Programming Languages: [Python, C, CPP, Rust, Kotlin]
+- Programming Languages: [Python, C, CPP, Java]
 - Technologies: [VS Code, GIT and GITHUB, if those counts]
 - Other Skills: [Can stay awake for 3 days in a row. Can make great chai.]
 
 ## Projects
 
 Here are some projects I've worked on:
-
-<I will add my projects once I will be able to complete them, basically never.>
 
 1. **[Project Name](link-to-project)** - Brief description of the project.
 2. **[Project Name](link-to-project)** - Brief description of the project.
@@ -27,16 +25,8 @@ Here are some projects I've worked on:
 
 ## Contact Me
 
-- Email: [rajnishmandavriya@gmail.com, rajnish.mandavariya2023@vitstudent.ac.in (My college email. Only place I go regularly.)]
+- Email: [rajnishmandavriya@gmail.com]
 - LinkedIn: [www.linkedin.com/in/rajnishmanda1]
-- Twitter: [I don't use Twitter or X or whatever the fuck that is. Follow me on instagram by the way.]
 - Instagram: [https://www.instagram.com/rajnishmanda1]
-- Personal Website/Blog: [I promise I will create one soon.]
-
-## Fun Facts
-
-- [I have the same username on all the socials.]
-- [Will forget your name and other important things as soon as you tell me.]
-- [That's it. Yes, I am boring and self-aware.]
 
 Feel free to reach out to me if you have any questions or want to collaborate on a project!
