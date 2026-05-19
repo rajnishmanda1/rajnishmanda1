@@ -13,8 +13,8 @@ Hello! I'm [rajnish mandavariya]. I'm passionate about [almost everything], and 
 
 Here are some projects I've worked on:
 
-1. **[Real-Time Bus Tracking System]** - Drivers share live GPS via browser geolocation API, passengers track buses on OpenStreetMap.
-2. **[SecureChat]([link-to-project](https://github.com/rajnishmanda1/SecureChat))** - A forward end-to-end encrypted chat system.
+1. **Real-Time Bus Tracking System** - Drivers share live GPS via browser geolocation API, passengers track buses on OpenStreetMap.
+2. **SecureChat** - A forward end-to-end encrypted chat system.
 3. **[Project Name](link-to-project)** - Brief description of the project.
 
 ## Education
